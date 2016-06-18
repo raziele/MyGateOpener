@@ -10,6 +10,7 @@ Arduino - an arduino code for a remote control replica based on Arduino Nano and
 GRC - The GnuRadio flowgraph used to extract the code  
 Python - Python script used to do some more process on the code, including some error correction  
 Samples - Contains the sample file used for the process  
+LiveSession - The stuff we have created during the session
 
 # TODO  
 Improve error correction. Right now the code still has some errors (e.g too many zeros\ones due to inaccurate clock recovery)
