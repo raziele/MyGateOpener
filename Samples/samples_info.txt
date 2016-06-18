@@ -1,2 +1,0 @@
-Sample rate 2M
-Center Frequency 433.5M
