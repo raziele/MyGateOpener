@@ -810,7 +810,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/maayan4/ParkingRC/parkRC_bytes</value>
+      <value>/home/maayan4/MyGateOpener/MyGarbage/parkRC_bytes</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -857,7 +857,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/maayan4/ParkingRC/ParkingRC-f4.335000e+08-s2.000000e+06-t20160513215032.cfile</value>
+      <value>/home/maayan4/MyGateOpener/MyGarbage/trimmed.cfile</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1073,7 +1073,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/maayan4/ParkingRC/baseband.wav</value>
+      <value>/home/maayan4/MyGateOpener/MyGarbage/baseband.wav</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1120,7 +1120,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/maayan4/ParkingRC/baseband_mm.wav</value>
+      <value>/home/maayan4/MyGateOpener/MyGarbage/baseband_mm.wav</value>
     </param>
     <param>
       <key>_coordinate</key>
